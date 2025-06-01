@@ -1,0 +1,11 @@
+{
+    "nome": "Guido van Rossum",
+    "linguagem": "Python",
+    "ano_criacao": 1991,
+    "similar": [
+        "Java",
+        "C",
+        "C++"
+    ],
+    "users": 1000000
+}
